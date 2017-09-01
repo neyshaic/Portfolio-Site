@@ -1,0 +1,179 @@
+/*css general */
+
+body {
+	
+font-family: "Courier", sans-serif;
+
+text-transform: uppercase;
+color: #008080;
+
+margin: 0;
+}
+
+
+
+header {
+     
+margin-bottom: 5px;
+    
+padding: 20px 0;
+    
+}
+
+
+
+article {
+    
+text-align: Center;
+    
+padding-bottom: 15px;
+    
+margin-bottom: 30px;
+    
+}   
+
+/*css for texts */
+
+.text-thin {
+	
+font-weight: 400;
+
+}
+
+
+
+.text-secondtitle {
+	
+padding-left:2%;
+	
+color: #000000;
+	font-weight:400;
+	
+font-size: 38px;
+	
+margin-top: 1em;
+
+}
+
+
+
+.text-link {
+	
+color: #000000;
+	font-size: 16px;
+	
+padding: 1em;
+	
+font-weight: 100;
+
+}
+
+
+
+
+.title-super {
+	
+margin-top: 1em;   
+font-size: 40px
+
+;
+}
+
+
+
+.description-project {
+	
+font-size: 38px;
+	
+font-weight: 400;
+	
+color: #008080;
+}
+
+
+
+.subtitle {
+	
+font-weight: 300;
+	
+font-size: 22px;
+
+}
+
+
+
+/*css for images */
+
+.title-logo {
+
+margin-top: 1.5em;
+
+}
+
+
+
+.img-response{
+margin-left:30px;
+}
+.img-responsive {
+    
+display: block;
+    
+max-width: 100%;
+    
+height: auto;
+
+}
+
+
+
+   
+.container {
+    
+margin: auto;
+
+}
+
+
+
+
+/*css for other elements */
+
+
+hr {
+    
+border: none;
+    
+height: 5px;
+    
+color: #c0c0c0; 
+
+/* old IE */
+    
+background-color: #c0c0c0; 
+/* Modern Browsers */
+    
+margin-top: 0.2em;
+    
+margin-bottom: 2.2em;
+}
+
+/**** Footer ****/
+
+
+footer {
+    
+background: #212121;
+    
+padding: 50px 0 50px;
+    
+box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.26);
+    
+color: #fafafa;
+    
+margin-top: 600px;
+    
+font-size: 18px;
+
+}
+
